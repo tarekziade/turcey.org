@@ -52,68 +52,22 @@ qui parle des mêmes sites au nord est de Turcey.
 Moyen-Age
 ---------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Eget nullam non nisi est sit.
-Tellus integer feugiat scelerisque varius. Nisi vitae suscipit tellus mauris.
-Amet nisl suscipit adipiscing bibendum est ultricies. Eleifend donec pretium
-vulputate sapien. Vitae congue mauris rhoncus aenean vel elit scelerisque
-mauris pellentesque. Diam maecenas sed enim ut sem viverra. Curabitur gravida
-|ban| arcu ac tortor dignissim convallis aenean. Non tellus orci ac auctor augue.
-Nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant.
-Quam vulputate dignissim suspendisse in est ante. Scelerisque eleifend donec
-pretium vulputate sapien nec. Varius sit amet mattis vulputate enim nulla
-aliquet porttitor lacus.
+A terminer.
 
 Epoque moderne et 19e
 ---------------------
 
-Ornare lectus sit amet est placerat in egestas. Tempus imperdiet nulla
-malesuada pellentesque. Ac felis donec et odio. Duis at consectetur lorem
-donec. Ultrices dui sapien eget mi proin sed. Id cursus metus aliquam eleifend
-mi in nulla. Eu nisl nunc mi ipsum faucibus vitae. Diam in arcu cursus euismod
-quis viverra nibh cras pulvinar. Urna molestie at elementum eu facilisis sed
-odio morbi quis. Faucibus nisl tincidunt eget nullam non nisi est sit amet.
-
-
-Feugiat in fermentum posuere urna. Suspendisse in est ante in nibh mauris
-cursus. Arcu dictum varius duis at. Id consectetur purus ut faucibus pulvinar
-elementum integer enim. Consequat semper viverra nam libero justo. In est ante
-in nibh mauris cursus mattis. Felis eget nunc lobortis mattis aliquam faucibus
-purus in. Sed viverra ipsum nunc aliquet. Mi sit amet mauris commodo quis
-imperdiet massa tincidunt. Tellus elementum sagittis vitae et leo duis.
-Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique
-senectus. Nascetur ridiculus mus mauris vitae ultricies leo integer.
+A terminer.
 
 1900 - 1945
 -----------
 
-Ridiculus mus mauris vitae ultricies. Aliquet nec ullamcorper sit amet risus
-nullam. Velit euismod in pellentesque massa. Volutpat est velit egestas dui id
-ornare arcu odio. Netus et malesuada fames ac turpis egestas integer eget
-aliquet. Aliquam vestibulum morbi blandit cursus. Tincidunt ornare massa eget
-egestas purus. Odio morbi quis commodo odio aenean. Neque vitae tempus quam
-pellentesque nec nam aliquam sem et. Amet mattis vulputate enim nulla aliquet
-porttitor lacus luctus. Blandit volutpat maecenas volutpat blandit aliquam
-etiam erat. Id semper risus in hendrerit gravida rutrum quisque non tellus.
-Egestas erat imperdiet sed euismod nisi. In egestas erat imperdiet sed euismod.
-Interdum consectetur libero id faucibus nisl. Tortor pretium viverra
-suspendisse potenti.
+A terminer.
 
 1945 - Aujourd'hui
 ------------------
 
-Vulputate odio ut enim blandit volutpat maecenas. Fermentum et sollicitudin ac
-orci phasellus egestas tellus rutrum. Ultricies tristique nulla aliquet enim
-tortor at auctor urna. Turpis egestas pretium aenean pharetra magna ac placerat
-vestibulum lectus. Tempor id eu nisl nunc mi ipsum faucibus vitae. Nisi lacus
-sed viverra tellus in hac habitasse platea dictumst. Nibh cras pulvinar mattis
-nunc sed blandit libero volutpat. Luctus venenatis lectus magna fringilla urna.
-Etiam erat velit scelerisque in dictum non consectetur a. Id porta nibh
-venenatis cras sed. Quam nulla porttitor massa id neque aliquam vestibulum.
-Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Egestas
-purus viverra accumsan in nisl. Velit ut tortor pretium viverra suspendisse
-potenti.
-
+A terminer.
 
 .. |ban| image:: /assets/images/ban-turcey.png
    :target: /assets/images/ban-turcey.png

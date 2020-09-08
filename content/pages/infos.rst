@@ -6,20 +6,28 @@ Infos Pratiques
 :cover: assets/images/coquelicot.png
 
 
-Ornare lectus sit amet est placerat in egestas. Tempus imperdiet nulla
-malesuada pellentesque. Ac felis donec et odio. Duis at consectetur lorem
-donec. Ultrices dui sapien eget mi proin sed. Id cursus metus aliquam eleifend
-mi in nulla. Eu nisl nunc mi ipsum faucibus vitae. Diam in arcu cursus euismod
-quis viverra nibh cras pulvinar. Urna molestie at elementum eu facilisis sed
-odio morbi quis. Faucibus nisl tincidunt eget nullam non nisi est sit amet.
+Voici une liste d'associations locales qui sont actives à Turcey et
+dans ses environs:
 
+- **Les Cartable de L'Oze** `page facebook <https://www.facebook.com/cartables.deloze>`_
 
-Feugiat in fermentum posuere urna. Suspendisse in est ante in nibh mauris
-cursus. Arcu dictum varius duis at. Id consectetur purus ut faucibus pulvinar
-elementum integer enim. Consequat semper viverra nam libero justo. In est ante
-in nibh mauris cursus mattis. Felis eget nunc lobortis mattis aliquam faucibus
-purus in. Sed viverra ipsum nunc aliquet. Mi sit amet mauris commodo quis
-imperdiet massa tincidunt. Tellus elementum sagittis vitae et leo duis.
-Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique
-senectus. Nascetur ridiculus mus mauris vitae ultricies leo integer.
+  L'objectif de cette association est de créer du lien entre les enfants, leurs
+  parents et les habitants des communes environnantes ; favoriser
+  l'épanouissement des enfants en participant au financement des activités
+  sportives, éducatives, ludiques et culturelles mises en place par les équipes
+  enseignantes de l'école maternelle et élémentaire de Blaisy-Bas.
+
+  C'est l'association organisatrice de la fête de la soupe.
+
+- **L'ACCRO** - Amis de la Chapelle de la Rochotte.
+
+  Cette association avait pour but de soutenir la restauration de la chappelle
+  de la Rochotte, et c'est chose faite. Elle continue d'exister et propose
+  parfois des repas.
+
+- **L'association communale de chasse** Regroupe les chasseurs locaux.
+
+La mairie est située 7 Grande rue est est ouverte 2h par semaine,
+les mardi de 14h à 16h.
+
 

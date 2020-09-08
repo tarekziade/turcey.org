@@ -14,6 +14,7 @@ Fonctionnement
 
 Le site est composé d'une partie fixe qui présente l'histoire du village
 et quelques infos pratiques, et d'articles. Si vous souhaitez écrire un article
-vous pouvez faire une proposition en envoyant un email à `redaction@turcey.org`.
+ou améliorer le contenu existant, vous pouvez faire une proposition en
+envoyant un email à `redaction@turcey.org`.
 
 
