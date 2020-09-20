@@ -31,11 +31,11 @@ Nous avons eu la chance d'avoir une émission à Turcey, et les bougres sont
 bien équipés et carrés! Chaque auditrice et auditeur pouvait suivre la radio
 en live avec un casque sans fil à proximité de la mairie, ou en direct  sur
 le site web via un serveur de casting. L'émission, qui était une alternance
-de reportages pré-enregistrés et interventions lives était de grande qualité.
+de reportages pré-enregistrés et interventions live était de grande qualité.
 
 Radio Talweg a réussi son pari, celui de réunir autour de cette émission
 des habitants locaux très divers, ravis de l'intérêt qui était porté à leur
-village, leur vie, leur histoire et prêt à partager un soirée ensemble.
+village, leur vie, leur histoire et prêt à partager une soirée ensemble.
 
 Le grand écart entre les `anciens` du village et les `nouveaux arrivants`
 se reflétait dans les reportages de l'émission, qui naviguait entre
