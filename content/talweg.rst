@@ -38,11 +38,13 @@ des habitants locaux très divers, ravis de l'intérêt qui était porté à leu
 village, leur vie, leur histoire et prêt à partager une soirée ensemble.
 
 Le grand écart entre les `anciens` du village et les `nouveaux arrivants`
-se reflétait dans les reportages de l'émission, qui naviguait entre
-des histoires de l'ancienne institutrice du village qui racontait comment
+se reflétait dans les reportages de l'émission, de manière enrichissante
+et bienveillante.
+
+Entre les histoires de l'ancienne institutrice du village qui racontait comment
 chaque table était construite dans la menuiserie locale à la demande, et
 un des ados qui expliquait ses reportages photos des chouettes perchées aux
-alentours.
+alentours, tout le monde écoutait attentivement, se marrait, devenait nostalgique.
 
 Bref, une bouffée d'oxygène dans cette période post-COVID, et peut-être
 pre-COVID2...
