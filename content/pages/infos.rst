@@ -27,7 +27,14 @@ dans ses environs:
 
 - **L'association communale de chasse** Regroupe les chasseurs locaux.
 
-La mairie est située 7 Grande rue est est ouverte 2h par semaine,
-les mardi de 14h à 16h.
+Voici une liste non exhaustive de commerces locaux:
 
+- **La boulange de Trouhaut** Boulangerie associative et artisanale ouvertes tous
+  les dimanches matin. Pains + croissants fait sur commande, avec des ingrédients
+  locaux pour la plupart, et bio.
+
+Info administratives:
+
+- **La mairie** est située 7 Grande rue est est ouverte 2h par semaine,
+  les mardi de 14h à 16h.
 
