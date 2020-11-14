@@ -35,6 +35,9 @@ Voici une liste non exhaustive de commerces locaux:
 
 Info administratives:
 
-- **La mairie** est située 7 Grande rue est est ouverte 2h par semaine,
-  les mardi de 14h à 16h.
+- **La mairie** est située 7 Grande rue. Elle est ouverte les mardi de 14h à 16h
+  et les vendredi de 18h à 20h
+
+  La Mairie fournie des informations régulières aux habitants
+  via Panneau Pocket. https://www.panneaupocket.com
 
