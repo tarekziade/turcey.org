@@ -51,7 +51,7 @@ Cette eau est ensuite transformée en eau potable, car elle ne peut pas être
 consommée directement. La transformation peut se faire avec des traitements
 chimiques, mécaniques et de lumière, en fonction de l'équipement disponible.
 
-Les étapes de transformation de l'eau sont:
+Les étapes de traitement de l'eau sont:
 
 - **Le dégrillage** et le **tamisage**: suppression mécanique des plus gros
   déchets en suspension avec de simples grilles ou pré-filtres.
@@ -71,7 +71,8 @@ connaissance d'étape de clarification ou d'affinage. Le système est équipé d
 pre-filtre à sédiment de type filtre à poche, mais qui ne pourra pas supprimer
 les particules les plus fines. C'est la raison pour laquelle l'eau peut parfois
 être trouble et ne pas être débarrassée de certains pesticides ou bactéries qui
-seraient bloqués par la clarification et l'affinage.
+seraient bloqués par la clarification et l'affinage. L'eau est également désinfectée
+à l'eau de Javel.
 
 Une fois transformée, l'eau traverse le circuit de distribution et arrive enfin
 au robinet.
@@ -89,17 +90,19 @@ Contrôle de l'eau
 
 Les contrôles sont supervisés et suivis par l'ARS et s'effectuent à trois niveaux:
 
-- la source, tous les 2 ans
-- après le traitement, 2 fois par an pour analyse chimique
+- à la source, tous les 2 ans
+- après le traitement, 2 fois par an pour une analyse physico-chimique
+  simple, et une fois par an pour une analyse physico-chimique complète.
 - au niveau de la distribution, 4 fois par an
 
 Une analyse plus poussée des métaux est aussi effectuée tous les 2 ans.
-La fréquence de ces contrôles sanitaires est décidée en fonction du débit et
-de la taille de la population.
+La fréquence de ces contrôles sanitaires est décidée en fonction du débit de
+la source et de la taille de la population. Des contrôles supplémentaires peuvent
+être imposés en cas de dégradation de la qualité (code de la Santé Publique).
 
 Le gestionnaire de l'eau (la Mairie) a aussi en charge le contrôle continu du
-réseau, et va effectuer des tests directs (PH par exemple) dans le réservoir
-et des prélèvements.
+réseau, et peut effectuer des tests directs (taux de chlore, PH par exemple)
+dans le réservoir, et réaliser des prélèvements pour analyse.
 
 Les contrôles de l'ARS sont disponibles en ligne, ce sont
 des documents publics. Vous pouvez y accéder `ici <https://orobnat.sante.gouv.fr/orobnat/afficherPage.do?methode=menu&usd=AEP&idRegion=27>`_
