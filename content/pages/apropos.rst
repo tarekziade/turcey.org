@@ -6,8 +6,15 @@ A Propos
 :cover: assets/images/coquelicot.png
 
 **Turcey.org a pour vocation de présenter la commune de Turcey en Côte d'Or et
-ses environs, de publier des reportages, ainsi que donner la parole aux acteurs
-sociaux et culturels locaux**
+ses environs, de publier des analyses, des reportages, ainsi que donner la
+parole aux acteurs sociaux et culturels locaux**
+
+.. note::
+
+   Turcey.org n'est pas affilié à la Mairie de Turcey. C'est un
+   site indépendant avec ses propres opinions.
+
+
 
 Fonctionnement
 --------------

@@ -1,1 +1,30 @@
 /*your custom css styles here*/
+
+div.admonition {
+  padding: 2px;
+}
+
+div.note p.admonition-title {
+  display: none;
+}
+
+div.admonition p.last {
+  padding-left: 10px;
+}
+
+div.note {
+  box-shadow: 2px 2px 2px 1px #d8d8d8;
+  color: #31708f;
+  background-color: #eaf3f8;
+}
+
+div.figure p.caption {
+  margin-top: 1px;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+}
+
+div.figure img {
+  margin: auto;
+}
