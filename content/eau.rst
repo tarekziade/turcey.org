@@ -307,13 +307,13 @@ propre citerne pour alimenter les châteaux d'eau, dont celui de Turcey. `Un
 article sur France Bleu explique cette démarche
 <https://www.francebleu.fr/infos/societe/une-citerne-mobile-solidaire-pour-lutter-contre-la-penurie-d-eau-en-cote-d-or-1564666842>`_
 
-Des agriculteurs de La Rochotte a aussi démarré des travaux pour avoir leur
+Des agriculteurs de La Rochotte ont aussi démarré des travaux pour avoir leur
 propre source, mais sans résultats pour l'instant. De toute façon, pendant les
 périodes de sécheresse, l'eau se fait rare partout.
 
 Certains proposent de mettre en place des biefs et retenues l'hiver, pour
 avoir des réserves pendant les sécheresses. Mais ce "détournement" artificiel
-influe forcément sur les quantités d'eau disponibles en aval. L'eau fait parti
+influe forcément sur la quantité d'eau disponibles en aval. L'eau fait parti
 d'un cycle et chaque ponction a un impact.
 
 Enfin, chaque nouvelle exploitation a un impact considérable sur les sources
