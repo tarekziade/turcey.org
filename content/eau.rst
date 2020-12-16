@@ -66,7 +66,7 @@ Les étapes de traitement de l'eau sont:
 - **La désinfection** par l'hypochlorite sodium (Eau de javel), Lampe UV, ou
   filtre à membrane.
 
-Pour notre commune, la transformation est basique. Il n'y a pas à ma
+Pour notre commune, le traitement est basique. Il n'y a pas à ma
 connaissance d'étape de clarification ou d'affinage. Le système est équipé d'un
 pre-filtre à sédiment de type filtre à poche, mais qui ne pourra pas supprimer
 les particules les plus fines. C'est la raison pour laquelle l'eau peut parfois
@@ -74,7 +74,7 @@ les particules les plus fines. C'est la raison pour laquelle l'eau peut parfois
 seraient bloqués par la clarification et l'affinage. L'eau est également désinfectée
 à l'eau de Javel.
 
-Une fois transformée, l'eau traverse le circuit de distribution et arrive enfin
+Une fois traitée, l'eau traverse le circuit de distribution et arrive enfin
 au robinet.
 
 .. note::
